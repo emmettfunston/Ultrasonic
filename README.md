@@ -17,9 +17,7 @@ cmake ..
 make
 ```
 
-## Demo Video
-<video src="assets/Ultrasonic.MOV" controls width="720"></video>
+## Demo
+![Ultrasonic demo](Media/Ultrasonic.gif)
 
-If your viewer does not render embedded video, use this direct link:
-
-[Download demo video](assets/Ultrasonic.MOV)
+Full-quality video: [Ultrasonic.MOV](Media/Ultrasonic.MOV)
